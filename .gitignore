@@ -2,3 +2,4 @@ node_modules/
 test/coverage
 bower_components/
 .coveralls.yml
+.idea/
